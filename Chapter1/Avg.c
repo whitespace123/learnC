@@ -6,5 +6,6 @@ int main(){
 	scanf("%d %d",&num1,&num2);
 	double result = (num1+num2)/2.0;
 	printf("其平均值为：%f",result);
+	printf("%d",1);
 	return 0;
 }
